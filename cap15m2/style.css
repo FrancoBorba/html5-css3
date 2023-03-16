@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(143, 218, 143, 0.87);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1{
+    color:#133B17; 
+    text-align: center;
+}
+
+h2{
+    color: #277A2F;
+}
+.subtitulos{
+    background-color: #123B17;
+    font-weight: bold;
+}
+h3{
+    color: #4FFA60;
+}
+
+.basico{
+    color: brown;
+}
+h3#intermediario{
+    color: #43E057;
+  
+}
